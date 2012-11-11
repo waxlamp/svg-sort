@@ -1,0 +1,12 @@
+* {
+    font-family: Garamond, Serif;
+}
+
+h1 {
+    font-variant: small-caps;
+}
+
+.data-glyph {
+    stroke: black;
+    stroke-width: 2;
+}
